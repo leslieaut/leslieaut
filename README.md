@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leslieaut
-- 👀 I’m interested in data analysis and meta data
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in UX Design
+- 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate on beginner projects to further my skills
 - 📫 How to reach me ...
 
